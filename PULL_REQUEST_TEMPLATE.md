@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre: Manuel Salvador  
-Usuario Platzi: Zontex
+Nombre:
+Usuario Platzi:
 
 ## Reto:
 
-- [x] Primer problema
-- [x] Segundo problema
-- [x] Tercer problema
+- [ ] Primer problema
+- [ ] Segundo problema
+- [ ] Tercer problema
