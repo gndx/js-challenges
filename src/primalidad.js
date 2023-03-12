@@ -1,5 +1,9 @@
 const trialDivision = (number) => {
-  // your code here 
+  // your code here
+    
+        if( number%1 !== 0)
+            return false;
+  
       if (number < 2){ 
         return false; 
     }
