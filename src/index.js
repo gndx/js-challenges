@@ -1,0 +1,1 @@
+console.log("Challenge JS - Miguel Reyes");
