@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Miguel Reyes Hernandez
+Usuario Platzi: reyeshernadezm167@gmail.com
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [✔] Primer problema
+- [✔] Segundo problema
+- [✔] Tercer problema
