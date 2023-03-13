@@ -10,16 +10,3 @@ const trialDivision = (number) => {
 }
 
 module.exports = trialDivision;
-
-
-
-
-
-console.log(trialDivision(2));
-console.log(trialDivision(3));
-console.log(trialDivision(5));
-console.log(trialDivision(11));
-console.log(trialDivision(191));
-
-console.log(trialDivision(25));
-/**/
