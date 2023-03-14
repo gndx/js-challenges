@@ -13,4 +13,18 @@ describe('fibonacci', () => {
     expect(fibonacci(9)).toEqual([1, 1, 2, 3, 5, 8, 13, 21, 34]);
     expect(fibonacci(10)).toEqual([1, 1, 2, 3, 5, 8, 13, 21, 34, 55]);
   });
+
+  it('handles malformed/invalid inputs', () => {
+    expect(() => fibonacci(-1)).toThrow(
+      'n must be a valid integer greater than or equal to 0; got -1'
+    );
+
+    expect(() => fibonacci('')).toThrow(
+      'n must be a valid integer greater than or equal to 0; got '
+    );
+
+    expect(() => fibonacci(1.1)).toThrow(
+      'n must be a valid integer greater than or equal to 0; got 1.1'
+    );
+  });
 });
