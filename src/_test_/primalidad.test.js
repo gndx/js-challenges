@@ -21,10 +21,12 @@ function primalityTest(testFunction) {
   expect(testFunction(200)).toBe(false);
   expect(testFunction(400)).toBe(false);
 
-  // It should also deal with floats.
+  // It should also deal with malformed/invalid inputs.
   expect(testFunction(0.5)).toBe(false);
   expect(testFunction(1.3)).toBe(false);
   expect(testFunction(10.5)).toBe(false);
+  expect(testFunction(-1)).toBe(false);
+  expect(testFunction('')).toBe(false);
 }
 
 describe('trialDivision', () => {
