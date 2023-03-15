@@ -1,31 +1,21 @@
 {
-  "name": "javascript-challenges",
+  "name": "ethereum",
   "version": "1.0.0",
-  "description": "javascript-challenges",
+  "description": "challenges",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/javascript-challenges.git"
+    "url": "git+https://github.com/JhonFredyPerez1982/JavaScript.git"
   },
-  "keywords": [
-    "JavaScript"
-  ],
-  "author": "Oscar Barajas <oscar@platzi.com>",
-  "license": "MIT",
+  "author": "jhon",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gndx/javascript-challenges/issues"
+    "url": "https://github.com/JhonFredyPerez1982/JavaScript/issues"
   },
-  "homepage": "https://github.com/gndx/javascript-challenges#readme",
-  "devDependencies": {
-    "jest": "29.0.1"
-  },
-  "jest": {
-    "verbose": true,
-    "transformIgnorePatterns": [
-      "<rootDir>/(node_modules)/"
-    ]
-  }
+  "homepage": "https://github.com/JhonFredyPerez1982/JavaScript#readme",
+  
+  "type":"module"
 }
