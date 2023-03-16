@@ -2,26 +2,26 @@
 
 function primalidad(number)
 {
-  if (number < 1)
-  {
-    return(false);
-  }
-  else if (number < 3)
+  if (number == 2)
   {
     return(true);
   }
+  else if (number % 1 !=0 || number <= 1)
+  {
+    return(false);
+  }
   else
   {
-  for(let i = 2; i <= number/3; i++)
+  for(let i = 2; i <= (number/2+1); i++)
     {
       if (number%i==0)
       {
-        return(true);
+        return(false);
       }
     }
-    return(false);
+    return(true);
   }
-};
+}; 
 
 //console.log(primalidad(13)) //true
 //console.log(primalidad(14)) //false
