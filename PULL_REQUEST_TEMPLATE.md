@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
 Nombre: Saúl Ramírez Noriega
-Usuario Platzi:
+Usuario Platzi: saulr@protonmail.com
 
 ## Reto:
 
