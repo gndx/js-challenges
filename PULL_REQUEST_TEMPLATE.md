@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Camila Molina Neculñir
+Usuario Platzi: molina.neculnir
 
 ## Reto:
 
