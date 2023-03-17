@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
 Nombre:
-Usuario Platzi:
+Usuario Platzi:Haiiro
 
 ## Reto:
 
