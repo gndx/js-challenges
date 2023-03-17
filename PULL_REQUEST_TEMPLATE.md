@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Enrique León
+Usuario Platzi: enriqueleonq1@gmail.com
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [OK] Primer problema
+- [OK] Segundo problema
+- [OK] Tercer problema
