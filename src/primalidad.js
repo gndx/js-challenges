@@ -1,4 +1,10 @@
 const trialDivision = (number) => {
+  if(!Number.isInteger(number)){
+    return false;
+  }
+  if (number<=0){
+    return false;
+  }
   if (number === 1) {
     return false;
   }
