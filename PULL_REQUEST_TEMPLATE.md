@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
+Nombre:Hiroki Kondo Nishioeda
 Usuario Platzi:Haiiro
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [Hecho] Primer problema
+- [Hecho] Segundo problema
+- [Hecho] Tercer problema
