@@ -12,5 +12,4 @@ const fibonacci = (n) => {
   }
   return fib;
 };
-console.log(fibonacci(5))
 module.exports = fibonacci;
