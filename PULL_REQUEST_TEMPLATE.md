@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Ana Angélica Castro Yáñez
+Usuario Platzi: angelicacyz
 
 ## Reto:
 
