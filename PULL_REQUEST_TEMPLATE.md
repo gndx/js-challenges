@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Federico Achaval
+Usuario Platzi: FedericoA
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [ X ] Primer problema
+- [ X ] Segundo problema
+- [ X ] Tercer problema
