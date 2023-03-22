@@ -1,5 +1,5 @@
 const fibonacci = (n) => {
-  // your code here
+ 1,1,2,3
 }
 
 module.exports = fibonacci;
