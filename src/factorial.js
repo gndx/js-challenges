@@ -1,5 +1,9 @@
 const factorial = (number) => {
-  // your code here
+  let salida = 1;
+  for(let i=1; i<=number; i++){
+    salida *= i;
+  }
+  return salida;
 }
 
 module.exports = factorial;
