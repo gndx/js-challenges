@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: ALEJANDRO BETANCOURT
+Usuario Platzi: alebeta
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [✅] Primer problema
+- [✅] Segundo problema
+- [✅] Tercer problema
