@@ -22,6 +22,6 @@ const fibonacci = (n) => {
 
     return arr;
   }
-}
+} 
 
 module.exports = fibonacci;
